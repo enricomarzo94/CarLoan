@@ -2,4 +2,3 @@
 funonzia
 gayyyyyyyyyyy
 aggiunto da sergio
-poca
