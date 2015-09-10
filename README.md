@@ -1,4 +1,0 @@
-# CarLoan
-funonzia
-
-ciao sergio
