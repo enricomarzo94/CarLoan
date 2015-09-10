@@ -1,5 +1,5 @@
 package presentation;
-
+test
 import java.io.IOException;
 
 import javafx.application.Application;
@@ -20,9 +20,9 @@ public class Login extends Application {
 	 */
 	private static Stage scena = null;
 	/**
-	 * Intero che indica chi è loggato nel sistema
-	 * 0 se è amministratore
-	 * 1 se è cliente
+	 * Intero che indica chi ï¿½ loggato nel sistema
+	 * 0 se ï¿½ amministratore
+	 * 1 se ï¿½ cliente
 	 * -1 default
 	 */
 	private static int ammCliente = -1;
@@ -86,8 +86,8 @@ public class Login extends Application {
 	/**
 	 * restituisce l'utente loggato nel sistema
 	 * @return
-	 * 		1 se è cliente
-	 * 		0 se è amministratore
+	 * 		1 se ï¿½ cliente
+	 * 		0 se ï¿½ amministratore
 	 * 		-1 default
 	 */
 	public static int getAmmCliente() {
@@ -95,10 +95,10 @@ public class Login extends Application {
 	}
 
 	/**
-	 * setta la variabile di log in base a chi è loggato nel sistema
+	 * setta la variabile di log in base a chi ï¿½ loggato nel sistema
 	 * @param ammCliente
-	 * 		1 se è cliente
-	 * 		0 se è amministratore
+	 * 		1 se ï¿½ cliente
+	 * 		0 se ï¿½ amministratore
 	 * 		-1 default
 	 */
 	public static void setAmmCliente(int ammCliente) {
